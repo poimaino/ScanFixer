@@ -1,0 +1,16 @@
+{
+  "addons": {
+    "scanfixer@poimaino.github.io": {
+      "updates": [
+        {
+          "version": "2.0.0",
+          "update_link": "https://github.com/poimaino/ScanFixer/releases/download/v2.0.0/scanfixer-2.0.0.xpi",
+          "update_hash": "sha256:5d95cf048269aebaae4c8f311db63589701ed66d0ea2f899cbdbb8417b9aba16",
+          "applications": {
+            "zotero": { "strict_min_version": "6.999" }
+          }
+        }
+      ]
+    }
+  }
+}
